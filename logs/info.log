@@ -1,0 +1,128 @@
+Info: CustomCategory:Team: 230 mini seconds publishing element
+Info: Guideline:Introduction to PMM Lifecycle: 109 mini seconds publishing element
+Info: CustomCategory:Roles: 16 mini seconds publishing element
+Info: Role:Process Engineer: 320 mini seconds publishing element
+Info: Role:PMO: 26 mini seconds publishing element
+Info: Role:QA Engineer: 31 mini seconds publishing element
+Info: Role:Configuration Controller: 31 mini seconds publishing element
+Info: CustomCategory:Work Products: 16 mini seconds publishing element
+Info: WorkProductType:Organizational Process Definition: 16 mini seconds publishing element
+Info: Artifact:Process Asset Library: 156 mini seconds publishing element
+Info: Artifact:Process Definition Compliance: 16 mini seconds publishing element
+Info: WorkProductType:Organizational Process Focus: 15 mini seconds publishing element
+Info: Artifact:Business Architecture Document: 16 mini seconds publishing element
+Info: Artifact:Lessons Learned: 15 mini seconds publishing element
+Info: Artifact:Process Improvement Action Plan: 16 mini seconds publishing element
+Info: Artifact:Assessment Reports: 0 mini seconds publishing element
+Info: Artifact:Management Objectives: 31 mini seconds publishing element
+Info: Artifact:Non-Compliance: 0 mini seconds publishing element
+Info: Artifact:Process improvement Project Statement: 16 mini seconds publishing element
+Info: Artifact:Process Improvement Proposals (PIPs): 16 mini seconds publishing element
+Info: Artifact:Project Schedule: 15 mini seconds publishing element
+Info: CustomCategory:Templates: 16 mini seconds publishing element
+Info: Artifact:Configuration Audit Report: 15 mini seconds publishing element
+Info: Artifact:Configuration Management Plan: 16 mini seconds publishing element
+Info: Artifact:QA on QA Report: 109 mini seconds publishing element
+Info: CustomCategory:Disciplines: 94 mini seconds publishing element
+Info: Discipline:Organizational Process Definition (OPD): 109 mini seconds publishing element
+Info: Task:Maintain Process Definition: 327 mini seconds publishing element
+Info: Discipline:Organizational Process Focus (OPF): 8 mini seconds publishing element
+Info: Task:Assess and Analyze Process Improvement Opportunities: 27 mini seconds publishing element
+Info: Task:Describe Current Business: 16 mini seconds publishing element
+Info: Task:Establish Process Improvement Action Plan: 31 mini seconds publishing element
+Info: Task:Establish Process Pilot Implementation: 16 mini seconds publishing element
+Info: Task:Obtain Commitment on Process Definition: 15 mini seconds publishing element
+Info: Task:Roll-Out Process Definitions: 16 mini seconds publishing element
+Info: Task:Close Process Improvement Project: 16 mini seconds publishing element
+Info: Task:Schedule and Assign Tasks: 15 mini seconds publishing element
+Info: CustomCategory:Policies: 16 mini seconds publishing element
+Info: Guideline:PM Policy: 62 mini seconds publishing element
+Info: Guideline:EPG Charter: 16 mini seconds publishing element
+Info: CustomCategory:Lifecycle: 47 mini seconds publishing element
+Info: : 1082 mini-second(s) publishing element DeliveryProcess:RSL_PM Lifecycle[TETCO_PMM\deliveryprocesses\RSL_PM Lifecycle_DC9AFF02.html]
+Info: DeliveryProcess:RSL_PM Lifecycle: 1082 mini seconds publishing element
+Info: DeliveryProcess:RSL_PM Lifecycle: 219 mini seconds publishing process specific layout data
+Info: Phase:Initiating: 212 mini seconds publishing element
+Info: Phase:Establishing: 219 mini seconds publishing element
+Info: Phase:Clos Process implementation: 187 mini seconds publishing element
+Info: Artifact:Process Templates: 21 mini seconds publishing element
+Info: Task:Build Process Template: 0 mini seconds publishing element
+Info: Task:Peer Review of PAL and Process Template: 16 mini seconds publishing element
+Info: Task:Initiate Process Improvement Project: 15 mini seconds publishing element
+Info: Task:Perform QA Audit: 16 mini seconds publishing element
+Info: Artifact:Client Workspaces: 16 mini seconds publishing element
+Info: Artifact:Project Workspaces: 15 mini seconds publishing element
+Info: Artifact:Source Control: 16 mini seconds publishing element
+Info: Task:Baseline Configuration Items: 16 mini seconds publishing element
+Info: Task:Establish Project’s Environment and CM Plan: 15 mini seconds publishing element
+Info: Task:Perform Configuration Audit: 16 mini seconds publishing element
+Info: Template:Process Definition Compliance: 15 mini seconds publishing element
+Info: Template:Business Architecture Document: 16 mini seconds publishing element
+Info: Template:Process Improvement Action Plan: 16 mini seconds publishing element
+Info: Template:Project Schedule Template: 15 mini seconds publishing element
+Info: Template:Configuration Audit Report: 31 mini seconds publishing element
+Info: Template:Configuration Management Plan: 16 mini seconds publishing element
+Info: Template:QA on QA Report: 16 mini seconds publishing element
+Info: Artifact:Organizational Measures: 15 mini seconds publishing element
+Info: Artifact:Organizational Risks: 16 mini seconds publishing element
+Info: TaskDescriptor:Initiate Process Improvement Project: 125 mini seconds publishing element
+Info: RoleDescriptor:PMO: 125 mini seconds publishing element
+Info: WorkProductDescriptor:Management Objectives: 140 mini seconds publishing element
+Info: WorkProductDescriptor:Organizational Measures: 32 mini seconds publishing element
+Info: WorkProductDescriptor:Organizational Risks: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Process improvement Project Statement: 16 mini seconds publishing element
+Info: TaskDescriptor:Establish Project’s Environment and CM Plan: 31 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 16 mini seconds publishing element
+Info: WorkProductDescriptor:Client Workspaces: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 32 mini seconds publishing element
+Info: WorkProductDescriptor:Project Workspaces: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Source Control: 15 mini seconds publishing element
+Info: TaskDescriptor:Assess and Analyze Process Improvement Opportunities: 32 mini seconds publishing element
+Info: RoleDescriptor:Process Engineer: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Assessment Reports: 16 mini seconds publishing element
+Info: WorkProductDescriptor:Non-Compliance: 31 mini seconds publishing element
+Info: WorkProductDescriptor:QA on QA Report: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Process Improvement Proposals (PIPs): 16 mini seconds publishing element
+Info: TaskDescriptor:Describe Current Business: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Process Asset Library: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Business Architecture Document: 32 mini seconds publishing element
+Info: TaskDescriptor:Establish Process Improvement Action Plan: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Process Improvement Action Plan: 15 mini seconds publishing element
+Info: TaskDescriptor:Schedule and Assign Tasks: 32 mini seconds publishing element
+Info: WorkProductDescriptor:Project Schedule: 31 mini seconds publishing element
+Info: TaskDescriptor:Maintain Process Definition: 28 mini seconds publishing element
+Info: RoleDescriptor:Process Engineer: 30 mini seconds publishing element
+Info: WorkProductDescriptor:List of PIPs: 24 mini seconds publishing element
+Info: WorkProductDescriptor:Process Improvement Action Plan: 26 mini seconds publishing element
+Info: WorkProductDescriptor:Process Improvement Proposals (PIPs): 25 mini seconds publishing element
+Info: WorkProductDescriptor:Process Asset Library: 27 mini seconds publishing element
+Info: TaskDescriptor:Obtain Commitment on Process Definition: 28 mini seconds publishing element
+Info: WorkProductDescriptor:Business Architecture Document: 24 mini seconds publishing element
+Info: WorkProductDescriptor:Process Definition Compliance: 26 mini seconds publishing element
+Info: TaskDescriptor:Establish Process Pilot Implementation: 29 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 26 mini seconds publishing element
+Info: TaskDescriptor:Build Process Template: 26 mini seconds publishing element
+Info: WorkProductDescriptor:Process Templates: 23 mini seconds publishing element
+Info: TaskDescriptor:Peer Review of PAL and Process Template: 31 mini seconds publishing element
+Info: TaskDescriptor:Perform QA Audit: 16 mini seconds publishing element
+Info: RoleDescriptor:QA Engineer: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Process Asset Library: 31 mini seconds publishing element
+Info: WorkProductDescriptor:QA on QA Report: 16 mini seconds publishing element
+Info: TaskDescriptor:Perform Configuration Audit: 31 mini seconds publishing element
+Info: RoleDescriptor:Configuration Controller: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 153 mini seconds publishing element
+Info: TaskDescriptor:Baseline Configuration Items: 187 mini seconds publishing element
+Info: TaskDescriptor:Roll-Out Process Definitions: 31 mini seconds publishing element
+Info: RoleDescriptor:PMO: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Process Definition Compliance: 16 mini seconds publishing element
+Info: WorkProductDescriptor:Process Improvement Action Plan: 31 mini seconds publishing element
+Info: TaskDescriptor:Close Process Improvement Project: 32 mini seconds publishing element
+Info: WorkProductDescriptor:Lessons Learned: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Audit Report: 31 mini seconds publishing element
+Info: WorkProductDescriptor:Configuration Management Plan: 32 mini seconds publishing element
+Info: WorkProductDescriptor:Management Objectives: 15 mini seconds publishing element
+Info: WorkProductDescriptor:Non-Compliance: 32 mini seconds publishing element
+Info: WorkProductDescriptor:Process improvement Project Statement: 15 mini seconds publishing element
+Info: Discipline:Configuration Management and QA: 16 mini seconds publishing element
+Info: : Publishing time: 0 minutes 7 seconds
